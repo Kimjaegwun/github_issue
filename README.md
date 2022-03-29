@@ -1,4 +1,5 @@
 npm install > cd ios > pod install > xcode 실행
+* 검색창에 facebook과 관련된 repository 입력
 
 ### `typescript`
 
